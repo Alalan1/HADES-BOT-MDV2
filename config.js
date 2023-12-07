@@ -9,7 +9,7 @@ global.owner = [
   ['5212411719888', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
 ]
 
-global.mods = ['5212411719888'],
+global.mods = ['5491136863271'],
 global.prems = ['5212411347465'], 
 global.prems = ['5212412377467'],
 global.APIs = { 
